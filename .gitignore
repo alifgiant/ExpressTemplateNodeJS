@@ -56,5 +56,6 @@ typings/
 
 # dotenv environment variables file
 .env
-public/images/
-public/javascripts/
+
+.c9
+.idea
